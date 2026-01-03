@@ -108,7 +108,7 @@ Scrum Masters facilitate agile ceremonies, remove impediments, and coach the tea
 - **DevOps Engineer**: Collaborates on process improvements and automation of workflows
 
 ### Example Collaboration Scenario
-During sprint planning, the Scrum Master notices the team is committing to more story points than their recent velocity suggests is achievable. They facilitate a discussion with the Product Manager to prioritize the most critical features and defer lower-priority items, ensuring a realistic sprint commitment. They also identify a recurring blocker around environment provisioning and work with the DevOps Engineer to automate the process for future sprints.
+During sprint planning, the Scrum Master notices the team is committing to more story points than their recent velocity suggests is achievable. They facilitate a discussion with the Product Manager to prioritize the most critical features and defer lower-priority items, ensuring a realistic sprint commitment. The Scrum Master also identifies a recurring blocker around environment provisioning. They work with the DevOps Engineer to automate the process for future sprints, improving team efficiency.
 
 ---
 
@@ -145,7 +145,7 @@ UX Designers research user needs, create design solutions, and validate usabilit
 - **DevOps Engineer**: Ensures design assets are properly integrated into build and deployment pipelines
 
 ### Example Collaboration Scenario
-The UX Designer conducts usability testing on a new checkout flow and discovers users are confused by the payment options layout. They create an alternative design and collaborate with the Product Manager to validate it addresses business requirements. During sprint planning, facilitated by the Scrum Master, they work with Developers to break the implementation into smaller stories and agree on acceptance criteria that include both functional requirements and design quality standards. The DevOps Engineer ensures the design assets are properly versioned and deployed through the CI/CD pipeline.
+The UX Designer conducts usability testing on a new checkout flow and discovers users are confused by the payment options layout. They create an alternative design and collaborate with the Product Manager to validate it addresses business requirements. During sprint planning, facilitated by the Scrum Master, they work with Developers to break the implementation into smaller stories. Together, they agree on acceptance criteria that include both functional requirements and design quality standards. The DevOps Engineer ensures the design assets are properly versioned and deployed through the CI/CD pipeline.
 
 ---
 
